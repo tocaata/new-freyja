@@ -1,0 +1,9 @@
+div.navBar {
+	height: 60px;
+	display: flex;
+}
+
+.searchBar {
+	/*display: inline-block;*/
+	margin-top: 10px;
+}
